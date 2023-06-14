@@ -247,14 +247,14 @@ mpasn_toomuchepicmmolevel: <color=yellow>EpicMMO</color> 等级过高
 mpasn_toomuchcozyheimlevel: <color=yellow>Cozyheim</color> 等级过高
 mpasn_needtitle: 需要称号
 mpasn_dontneedtitle: 你有称号
-mpasn_Leaderboard: Leaderboard
-mpasn_Leaderboard_PlayerName: Player Name
-mpasn_Leaderboard_AchScore: "Ach.\nScore"
-mpasn_Leaderboard_CreaturesKilled: "Creatures\nKilled"
-mpasn_Leaderboard_PlayersKilled: "Players\nKilled"
-mpasn_Leaderboard_StructuresBuilt: "Structures\nBuilt"
-mpasn_Leaderboard_Harvested: "Plants\nHarvested"
-mpasn_Leaderboard_ItemsCrafted: "Items\nCrafted"
-mpasn_Leaderboard_AmountOfDeath: "Amount of\nDeaths"
-mpasn_Leaderboard_MapExplored: "Map\nExplored"
-mpasn_LeaderboardAchievements: "'s\nAchievements"
+mpasn_Leaderboard: 排行榜
+mpasn_Leaderboard_PlayerName: 玩家昵称
+mpasn_Leaderboard_AchScore: "成就\n积分"
+mpasn_Leaderboard_CreaturesKilled: "生物\n击杀"
+mpasn_Leaderboard_PlayersKilled: "玩家\n击杀"
+mpasn_Leaderboard_StructuresBuilt: "建筑\n建造"
+mpasn_Leaderboard_Harvested: "作物\n收获"
+mpasn_Leaderboard_ItemsCrafted: "物品\n制作"
+mpasn_Leaderboard_AmountOfDeath: "死亡\n次数"
+mpasn_Leaderboard_MapExplored: "地图\n探索"
+mpasn_LeaderboardAchievements: "的\n成就"
